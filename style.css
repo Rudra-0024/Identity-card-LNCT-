@@ -1,0 +1,133 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    width: 350px;
+    height: 500px;
+    background-color: white;
+  margin-left: 500px;
+  margin-top: 100px;
+  border: 2px solid black;
+  border-radius: 5px;
+  
+}
+
+.container1{
+  
+    height: 100px;
+    background-color: rgb(178, 210, 216);
+   
+}
+.college{
+    text-transform: uppercase;
+    font-size: 14px;
+    color: #09134f;
+    font-weight: bold;
+    text-align: center;
+
+}
+.colg-details1{
+    margin-top: 3px;
+    font-size: 12px;
+    color: #09134f;
+    text-align: right;
+    margin-right: 18px;
+}
+.colg-details2{
+    font-size: 12px;
+    color: #09134f;
+    text-align: right;
+    margin-right: 34px;
+}
+.logo{
+    height: 56px;
+    width: 63px;
+    border-radius: 50%;
+    margin-top: -18px;
+    margin-left: 14px;
+}
+.estd{
+    color: #2a9abd;
+    font-size: 8px;
+    margin-left: 28px;
+}
+.container2{
+  
+    height: 25px;
+    background-color: rgb(116, 201, 220);
+ color: #09134f;
+}
+.student{
+    text-transform: uppercase;
+    text-align: center;
+}
+body{
+    background-color: black;
+}
+
+.barcode{
+    height: 93px;
+    width: 384px;
+    margin-left: -23px;
+    margin-top: -15px;
+}
+.pic-cont{
+    height: 123px;
+    width: 113px;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_gTcxVCF3oMITzULgnJDiEzRcukWbGdkw-g&s");
+    background-color: bisque;
+    background-size: cover;
+    margin-left: 108px;
+    margin-top: -19px;
+
+}
+.Name{
+    font-size: 17px;
+    margin-left: 106px;
+
+}
+ 
+.lnct-logo{
+    height: 32px;
+    width: 57px;
+    margin-left: 38px;
+    margin-top: 12px;
+}
+
+.coll-info{
+    font-size: 15px;
+    font-weight: 600;
+    margin-left: 30px;
+    margin-top: 20px;
+
+}
+.principal-sign{
+    height: 20px;
+    width: 30px;
+    margin-left: 275px;
+    margin-top: -40px;
+    margin-bottom: 27px;
+}
+.sign{
+    font-size: 12px;
+  margin-left: 271px;
+  margin-top: -34px;
+}
+.container4{
+    height: 18px;
+    width: 350px;
+    background-color: rgb(116, 201, 220);
+    text-align: center;
+    font-size: 8px;
+    line-height: 1rem;
+}
+.link{
+  
+    color: #09134f;
+    margin-top: 20px;
+
+  
+   
+}
